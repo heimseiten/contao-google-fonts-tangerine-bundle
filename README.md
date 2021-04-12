@@ -1,5 +1,5 @@
 # Google Fonts - Tangerine for Contao
 
-Weil die Google Fonts Dateien lokal abgespeichert werden, wird keine Verbindung zum zu den Servern von Google aufgebaut.
+Lokale Installation der Google Schriftart. DSGVO konform. Keine Verbindung zum Google Server.
 
-Because the Google Fonts files are stored locally, no connection to the Google servers is required.
+Local installation of Google Font. DSGVO compliant. No connection to the Google server.
