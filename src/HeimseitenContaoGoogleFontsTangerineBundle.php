@@ -4,17 +4,8 @@ declare(strict_types=1);
 
 namespace Heimseiten\ContaoGoogleFontsTangerineBundle;
 
-use Symfony\Component\DependencyInjection\ContainerBuilder;
-use Symfony\Component\HttpKernel\Bundle\Bundle;
+use Symfony\Component\HttpKernel\Bundle\AbstractBundle;
 
-class HeimseitenContaoGoogleFontsTangerineBundle extends Bundle
+class HeimseitenContaoGoogleFontsTangerineBundle extends AbstractBundle
 {
-	/**
-	 * {@inheritdoc}
-	 */
-	public function build(ContainerBuilder $container): void
-	{
-		parent::build($container);
-		
-	}
 }
